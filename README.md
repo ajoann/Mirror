@@ -11,9 +11,10 @@ Weather, News, Uber, Reminders, and Outfit Tracking.
 <img align="left" width="410" height="375" src="https://github.com/ajoann/Mirror/blob/master/img/mirror_left.JPG">
 <img align="right" width="410" height="375" src="https://github.com/ajoann/Mirror/blob/master/img/mirror_right.jpg">
 
-[![Watch the video](https://img.youtube.com/vi/HZM_5S88JLk/0.jpg)](https://www.youtube.com/embed/HZM_5S88JLk)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HZM_5S88JLk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+Watch our demo! 
+
+[![Watch the video](https://img.youtube.com/vi/HZM_5S88JLk/0.jpg)](https://www.youtube.com/embed/HZM_5S88JLk)
 
 ### Current work in progress:
 Adding interaction from the Pi to a Particle Photon in order to control dorm lights. 
