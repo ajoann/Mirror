@@ -20,3 +20,5 @@ Weather, News, Uber, Reminders, and Outfit Tracking.
 
 ### Current work in progress:
 - [ ] Adding interaction from the Pi to a Particle Photon in order to control dorm lights. 
+
+#### this mirror runs on Node.js, Express, React, MongoDB, Twilio, and Particle!
