@@ -12,7 +12,6 @@ Weather, News, Uber, Reminders, and Outfit Tracking.
 
 <img align="center" width="300" height="250" src="https://github.com/ajoann/Mirror/blob/master/img/mirror_right.jpg">
 
-
 ### Watch our demo! 
 
 [![Watch the video](https://img.youtube.com/vi/HZM_5S88JLk/0.jpg)](https://www.youtube.com/embed/HZM_5S88JLk)
