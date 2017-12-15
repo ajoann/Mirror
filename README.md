@@ -1,8 +1,8 @@
 # Mirror
 A Smart Mirror powered by a Raspberry Pi. 
 
-<img align="center" width="300" height="250" src="https://github.com/ajoann/Mirror/blob/master/img/mirror_left.JPG">
-<img align="right" width="300" height="250" src="https://github.com/ajoann/Mirror/blob/master/img/mirror_right.jpg">
+<img align="left" width="300" height="250" src="https://github.com/ajoann/Mirror/blob/master/img/mirror_left.JPG">
+<img align="center" width="300" height="250" src="https://github.com/ajoann/Mirror/blob/master/img/mirror_right.jpg">
 
 
 
