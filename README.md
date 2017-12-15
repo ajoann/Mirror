@@ -19,4 +19,4 @@ Weather, News, Uber, Reminders, and Outfit Tracking.
 [![Watch the video](https://img.youtube.com/vi/HZM_5S88JLk/0.jpg)](https://www.youtube.com/embed/HZM_5S88JLk)
 
 ### Current work in progress:
-[ ] Adding interaction from the Pi to a Particle Photon in order to control dorm lights. 
+- [ ] Adding interaction from the Pi to a Particle Photon in order to control dorm lights. 
