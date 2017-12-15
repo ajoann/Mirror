@@ -1,4 +1,4 @@
-# Mirror
+# Iris
 A Smart Mirror powered by a Raspberry Pi. 
 
 <img align="left" width="300" height="250" src="https://github.com/ajoann/Mirror/blob/master/img/mirror_left.JPG">
